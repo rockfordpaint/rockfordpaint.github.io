@@ -1,0 +1,208 @@
+html {
+	overflow-y: scroll;
+}
+.imageDiv {
+	width: 189px;
+}
+.header-text {
+	vertical-align: top;
+	width: 100%;
+	padding-right: 2em;
+}
+#references {
+	text-align: center;
+}
+#business-name {
+	font-size: 2.5em;
+	text-decoration: none;
+	color: #000;
+}
+p.business-phone {
+	font-size: 1.6em;
+}
+a.business-phone-link {
+	text-align: right;
+	text-decoration: none;
+}
+a.business-phone-link#visited {
+	text-decoration: none;
+}
+tr.header-content-space {
+	height: 15px;
+}
+td.header-logo {
+	width: 225px;
+}
+td.header-logo-portion {
+	width: 30px;
+}
+div.header-button {
+	height: 100%;
+}
+table.header-buttons {
+	height: 100%;
+	width: 100%;
+	display: block;
+}
+tr.header {
+	height: 199px;
+}
+div.max-width {
+	width: 750px;
+	margin: auto;
+}
+td.center {
+	text-align: center;
+}
+div a {
+	display: block;
+	vertical-align: center;
+}
+table {
+	border-spacing: 0px;
+	border-collapse: separate;
+}
+td {
+	padding: 0px;
+}
+tr {
+	padding: 0px;
+}
+ul.menu {
+	display: block;
+	margin: 0;
+	text-align: center;
+	list-style: none;
+	padding: 0.5em;
+	white-space: nowrap;
+}
+li.menuItem {
+	display: inline;
+}
+#nav {
+	background-color: #dfe4de;
+}
+#navOuter {
+	background-color: #eff4ee;
+}
+#nav li a {
+	display: inline;
+	text-decoration: none;
+	padding: .2em 1em;
+	color: #000;
+}
+#nav li a:hover {
+	color: #000;
+	background-color: #bfc0b8;
+}
+#belowNav {
+	background-color: #d1d2ca;
+	width: 100%;
+}
+#belowNavOuter {
+	background-color: #c0c1b9;
+	height: 100%:
+	display: table-row;
+}
+#havSpacing {
+	height: 500px;
+}
+.headerOuter {
+	background-color: #FFFFFF;
+}
+.topPadding {
+	padding-top: 1em;
+}
+.container {
+	height: 100%;
+	width: 100%;
+	display: table;
+}
+html body {
+	background-color: #c0c1b9;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+#belowNav div {
+	padding: 1.5em;
+}
+.topAlign {
+	vertical-align: top;
+}
+.bottomAlign {
+	vertical-align: bottom;
+}
+.rightAlign {
+	text-align: right;
+}
+.centerAlign {
+	text-align: center;
+}
+.fill {
+	width: 100%;
+}
+.fillVert {
+	height: 100%;
+}
+#proposal tr td {
+	vertical-align: top;
+}
+textarea {
+	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+	-moz-box-sizing: border-box;    /* Firefox, other Gecko */
+	box-sizing: border-box;         /* Opera/IE 8+ */
+	width: 100%;
+}
+#proposalForm {
+	height: 10em;
+}
+#services {
+    list-style: none;
+}
+#testimonials {
+    list-style: none;
+}
+#testiminals span {
+    /* stying for name */
+}
+.phone {
+	vertical-align: bottom;
+}
+#imgEstimate {
+	width: 169px;
+	height: 245px;
+}
+#imgCommercial {
+	width: 175px;
+	height: 245px;
+}
+#imgBestPrice {
+	width: 333px;
+	height: 245px;
+}
+#imgBrush {
+	width: 169px;
+	height: 245px;
+}
+#indexPictures {
+	margin-right:auto;
+	margin-left:auto;
+    width:100%;
+}
+#indexPictures tbody tr td {
+	cellpadding: 10;
+}
+#indexPictures tbody tr td img {
+	margin-left: auto;
+    margin-right: auto;
+}
+#centerTable {
+	width: 100%;
+}
+.footer {
+	color: #a0a097;
+}
+.attribution {
+	text-align: right;
+}
